@@ -1,4 +1,4 @@
-# Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
+Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
