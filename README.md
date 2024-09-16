@@ -1,10 +1,3 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/DriftOps/API-IV_Front-end
-[submodule "backend"]
-	path = backend
-	url = https://github.com/DriftOps/API-IV_Back-end
- 
 # Equipe DriftOps
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
