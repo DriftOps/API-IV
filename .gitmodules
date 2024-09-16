@@ -7,3 +7,6 @@
 [submodule "API-IV_Front-end"]
 	path = API-IV_Front-end
 	url = https://github.com/DriftOps/API-IV_Front-end
+[submodule "API-IV_Back-end"]
+	path = API-IV_Back-end
+	url = https://github.com/DriftOps/API-IV_Back-end.git
