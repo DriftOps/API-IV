@@ -6,9 +6,8 @@ Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FA
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
 
-> Este projeto é destinado para auxiliar uma empresa no setor logístico, com integração de seus setores e atividades
+> Este projeto é destinado para auxiliar a empresa JJM Log do setor logístico, com integração de seus setores e atividades. Através de um sistema web
 
 ## 📖 Índice
 
