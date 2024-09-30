@@ -22,7 +22,7 @@ Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FA
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] Kick-off - 26/08 à 06/09
-- [ ] 1° Sprint - 09/09 à 29/09
+- [x] 1° Sprint - 09/09 à 29/09
 - [ ] 2° Sprint - 30/09 à 20/10
 - [ ] 3° Sprint - 21/10 à 10/11
 - [ ] 4° Sprint - 11/11 à 01/12
