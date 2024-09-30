@@ -65,7 +65,7 @@ Para instalação, siga estas etapas:
 Visual Studio Code:
 
 ```
-<npm install
+npm install
 ```
 
 ## ☕ Usando o sistema:
