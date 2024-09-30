@@ -50,28 +50,22 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ###
 
-## 💻 Pré-requisitos
+<!--## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 - Você tem uma máquina Windows / Linux / Mac. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você leu `<guia / link / documentação_relacionada_ao_projeto>`. -->
 
 ## 🚀 Instalando...
 
 Para instalação, siga estas etapas:
 
-Linux e macOS:
+Visual Studio Code:
 
 ```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
+<npm install
 ```
 
 ## ☕ Usando o sistema:
@@ -79,10 +73,10 @@ Windows:
 Para usar, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+npm start
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+<!-- Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus! -->
 
 ## 🤝 Colaboradores
 
