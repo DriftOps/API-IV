@@ -13,7 +13,7 @@ Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FA
 
 - [Visão Geral](#visão-geral)
 - [Tecnologias](#tecnologias)
-- [Configuração do Ambiente](#configuração-do-ambiente)
+- [Configuração do Ambiente](#Tecnologias)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
