@@ -12,11 +12,13 @@ Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FA
 ## 📖 Índice
 
 - [Visão Geral](#visão-geral)
+- [Backlog](#Backlog)
 - [Tecnologias](#tecnologias)
 - [Configuração do Ambiente](#Tecnologias)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
+  
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
@@ -27,6 +29,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] 3° Sprint - 21/10 à 10/11
 - [ ] 4° Sprint - 11/11 à 01/12
 - [ ] Feira de Soluções - 12/12
+## Backlog
+
+  ![image](https://github.com/user-attachments/assets/c7f1751e-fc27-4655-ad5d-485763f578bc)
 
 ## 💻 Tecnologias
 
