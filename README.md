@@ -25,7 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Kick-off - 26/08 à 06/09
 - [x] 1° Sprint - 09/09 à 29/09
-- [ ] 2° Sprint - 30/09 à 20/10
+- [x] 2° Sprint - 30/09 à 20/10
 - [ ] 3° Sprint - 21/10 à 10/11
 - [ ] 4° Sprint - 11/11 à 01/12
 - [ ] Feira de Soluções - 12/12
