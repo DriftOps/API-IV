@@ -31,7 +31,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Feira de Soluções - 12/12
 ## Backlog
 
-  ![image](https://github.com/user-attachments/assets/c7f1751e-fc27-4655-ad5d-485763f578bc)
+  ![backlog](https://i.imgur.com/nGaCqr5.png)
 
 ## 💻 Tecnologias
 
