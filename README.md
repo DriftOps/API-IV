@@ -9,7 +9,7 @@ Projeto de alunos do 4º Semestre de Análise e Desenvolvimento de Sistemas - FA
 
 > Este projeto é destinado para auxiliar a empresa JJM Log do setor logístico, com integração de seus setores e atividades. Através de um sistema web
 
-## 📖 Índice
+## 📖 Índice 
 
 - [Visão Geral](#visão-geral)
 - [Backlog](#Backlog)
