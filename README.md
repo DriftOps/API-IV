@@ -31,7 +31,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Feira de Soluções - 12/12
 ## Backlog
 
-  ![backlog](https://i.imgur.com/nGaCqr5.png)
+[backlog-Drift-Ops.xlsx](https://github.com/user-attachments/files/17600139/backlog-Drift-Ops.xlsx)
 
 ## 💻 Tecnologias
 
@@ -89,12 +89,11 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 |    Função    | Nome                       |                     GitHub                       |                    Linkedin                    |
 | :----------: | :-----------------------   | :--------------------------------------------:   | :--------------------------------------------: |
-| Product Owner | Thiago Canedo             |   [GitHub](https://github.com/ThiagoCanedo)      | [Linkedin](https://www.linkedin.com/in/allancristian95/)|
+| Product Owner | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
 | Scrum Master  | Felipe Pereira            |    [GitHub](https://github.com/felipereira10)   | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
 |   Dev Team    | Enzo Pereira              |    [GitHub](https://github.com/Enzopereira01)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
 |   Dev Team    | Erik Zanetti Ferraz       |    [GitHub](https://github.com/ErikZFerraz)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
 |   Dev Team    | Kalil Pereira             |    [GitHub](https://github.com/kalil004)        | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-|   Dev Team    | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
 |   Dev Team   | Pablo Rafael Silva         |    [GitHub](https://github.com/Rafa0709) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 
 
