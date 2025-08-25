@@ -183,9 +183,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 | :----------: | :-----------------------   | :--------------------------------------------:   | :--------------------------------------------: |
 | Product Owner | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
 | Scrum Master  | Felipe Pereira            |    [GitHub](https://github.com/felipereira10)   | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
-|   Dev Team    | Enzo Pereira              |    [GitHub](https://github.com/Enzopereira01)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+|   Dev Team    | Enzo Pereira                | [GitHub](https://github.com/Enzopereira01)          | [LinkedIn](https://www.linkedin.com/in/enzo-pereira-13331b272/) |
 |   Dev Team    | Erik Zanetti Ferraz       |    [GitHub](https://github.com/ErikZFerraz)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-|   Dev Team    | Kalil Pereira             |    [GitHub](https://github.com/kalil004)        | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+|   Dev Team    | Kalil Pereira               | [GitHub](https://github.com/kalil004)               | [LinkedIn](https://www.linkedin.com/in/kalil-alves-381633270/) |
 |   Dev Team   | Pablo Rafael Silva         |    [GitHub](https://github.com/Rafa0709) | [Linkedin](https://www.linkedin.com/in/pablo-rafael-silva-9ab4771ba/)|
 
 
